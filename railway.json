@@ -6,6 +6,6 @@
   "deploy": {
     "startCommand": "python tripwire_kicker.py",
     "restartPolicyType": "NEVER",
-    "cronSchedule": "0 9 * * *"
+    "cronSchedule": "30 20 * * *"
   }
 }
